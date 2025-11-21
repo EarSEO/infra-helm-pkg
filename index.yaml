@@ -3,9 +3,9 @@ entries:
   spring:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-21T17:03:29.455343702Z"
+    created: "2025-11-21T17:12:01.074823275Z"
     description: A Helm chart for EarSEO Spring
-    digest: 390f81424330b0e53d2b6c8e2222f9c20db99526eed8ddd84d15de2be7506e4c
+    digest: d89ed5f08f2b84ea83cbd91d9f2a565c59dfb4b0fc5350ceec6677fbb8debe3d
     name: spring
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-21T17:03:29.455048029Z"
+    created: "2025-11-21T17:12:01.074492107Z"
     description: A Helm chart for EarSEO Spring
     digest: 9336cd3ecc8ee83162bc25bdc90ff74664f64f8c7dcc8cf32fa020cc3bd0f445
     name: spring
@@ -23,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-21T17:03:29.454733943Z"
+    created: "2025-11-21T17:12:01.074197597Z"
     description: A Helm chart for EarSEO Spring
     digest: 0b2f553ec6e8e3e73a47078deef0bbfcc5e31b9d6c804a892c46a87999043d88
     name: spring
@@ -31,4 +31,4 @@ entries:
     urls:
     - spring-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-21T17:03:29.454309129Z"
+generated: "2025-11-21T17:12:01.073788933Z"
